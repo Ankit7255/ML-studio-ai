@@ -28,3 +28,9 @@ The system is built on a component-driven architecture to ensure scalability and
    ```bash
    git clone [https://github.com/Ankit7255/ML-studio-ai.git](https://github.com/Ankit7255/ML-studio-ai.git)
    cd ML-studio-ai
+
+
+# Live Deployment
+The application is deployed via Streamlit Community Cloud and features CI/CD integration with the main branch of this repository.
+
+Developed by Ankit as a scalable portfolio project demonstrating end-to-end ML engineering, modular component architecture, and LLM API integration.
