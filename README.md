@@ -1,5 +1,7 @@
 # ML-Studio-AI: Human-in-the-Loop Machine Learning Environment
 
+**Live Demo:** [ML-Studio-AI on Streamlit](https://ml-studio-ai-kaha8rlhmmerz2jndzjdud.streamlit.app/)
+
 ## Overview
 ML-Studio-AI is a modular, interactive web application designed to bridge the gap between fully automated machine learning pipelines and manual data science workflows. By implementing a Human-in-the-Loop (HITL) architecture, the application leverages Large Language Models (LLMs) to analyze dataset metadata and recommend preprocessing strategies, while allowing the human domain expert to make the final architectural decisions.
 
@@ -28,9 +30,3 @@ The system is built on a component-driven architecture to ensure scalability and
    ```bash
    git clone [https://github.com/Ankit7255/ML-studio-ai.git](https://github.com/Ankit7255/ML-studio-ai.git)
    cd ML-studio-ai
-
-
-# Live Deployment
-The application is deployed via Streamlit Community Cloud and features CI/CD integration with the main branch of this repository.
-
-Developed by Ankit as a scalable portfolio project demonstrating end-to-end ML engineering, modular component architecture, and LLM API integration.
